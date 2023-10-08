@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋 I'm Emran
 
-<!--
-**emran-islam/emran-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Aspiring Front-End Web Developer 🌟
 
-Here are some ideas to get you started:
+🚀 Join me on my coding journey as I embark on a 13-week Software Developing Bootcamp with Northcoders in November! 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Exploring the world of web development and ready to turn ideas into interactive, user-friendly websites.
+
+🔧 I'm passionate about creating clean, responsive, and visually appealing user interfaces that make the web a better place.
+
+📚 Currently learning:
+
+- JavaScript
+- Version Control with Git
+
+💡 Looking to collaborate soon on exciting front-end projects and open-source contributions. Let's build something awesome together!
+
+🌱 Always eager to expand my knowledge and keep up with the latest trends in web development.
+
+💬 Connect with me:
+- 📫 Email: emran_islam@hotmail.co.uk 
